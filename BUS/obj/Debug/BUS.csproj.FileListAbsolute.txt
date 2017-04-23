@@ -1,0 +1,2 @@
+c:\users\sudo\documents\visual studio 2017\Projects\RapChieuPhim\BUS\obj\Debug\BUS.Properties.Resources.resources
+c:\users\sudo\documents\visual studio 2017\Projects\RapChieuPhim\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
